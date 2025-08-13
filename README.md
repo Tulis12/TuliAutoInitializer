@@ -1,10 +1,10 @@
-<div style="text-align: center;">
+<div align="center">
     <a href="https://packagist.org/packages/kanashimo/phpwaifu" target="_blank">
         <img src="img.png" width="594" alt="@TuliAutoInitializer">
     </a>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Tulis12/TuliAutoInitializer">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Tulis12/TuliAutoInitializer">
     <a href="https://jitpack.io/#Tulis12/TuliAutoInitializer" target="_blank"><img alt="Jitpack" src="https://jitpack.io/v/Tulis12/TuliAutoInitializer.svg"></a>
