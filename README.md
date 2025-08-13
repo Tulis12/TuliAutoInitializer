@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://packagist.org/packages/kanashimo/phpwaifu" target="_blank">
+    <a href="https://jitpack.io/#Tulis12/TuliAutoInitializer" target="_blank">
         <img src="img.png" width="594" alt="@TuliAutoInitializer">
     </a>
 </div>
