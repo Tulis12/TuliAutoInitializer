@@ -7,5 +7,7 @@ import java.lang.annotation.Target;
 
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)
-public @interface GenericInitializer {
+public @interface Init {
+    boolean initializeWithoutParameters() default false;
+    Class<?>[] initializeOnlyWith() default {};
 }
