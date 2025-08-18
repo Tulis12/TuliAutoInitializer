@@ -150,11 +150,11 @@ public class AutomaticInitializer {
             return this;
         }
 
-        public String getPackageName() {
+        String getPackageName() {
             return packageName;
         }
 
-        public LinkedHashMap<Class<?>, List<Object>> getClasses() {
+        LinkedHashMap<Class<?>, List<Object>> getClasses() {
             return classes;
         }
 
